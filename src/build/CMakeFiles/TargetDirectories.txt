@@ -1,0 +1,4 @@
+/home/innoruption/Rubseena/DeepTextSpotter/src/build/CMakeFiles/edit_cache.dir
+/home/innoruption/Rubseena/DeepTextSpotter/src/build/CMakeFiles/rebuild_cache.dir
+/home/innoruption/Rubseena/DeepTextSpotter/src/build/CMakeFiles/trie_py.dir
+/home/innoruption/Rubseena/DeepTextSpotter/src/build/CMakeFiles/cmp_trie.dir
